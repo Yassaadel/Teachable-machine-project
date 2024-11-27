@@ -1,1 +1,1 @@
-
+Developed a web application with three AI models: Image Classification, Audio Detection, and Position Detection. Enabled users to upload images, record audio, and interact with AI-driven models for real-time analysis.
